@@ -1,6 +1,11 @@
-assets/*
-!assets/.gitignore
-protected/runtime/*
-!protected/runtime/.gitignore
-protected/data/*.db
-themes/classic/views/
+# Created by .ignore support plugin (hsz.mobi)
+/vendor
+/runtime
+/web/assets
+
+.idea
+.idea/workspace.xml
+commands/
+vendor/ezyang/htmlpurifier/plugins/phorum/htmlpurifier/
+vendor/yiisoft/yii2/console/runtime/
+web/cgi-bin/
