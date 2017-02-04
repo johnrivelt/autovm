@@ -50,4 +50,4 @@ return [
 ];
 ```
 
-Then go to PhpMyAdmin and import autovm.sql from your carted database.
+Then go to PhpMyAdmin and import `autovm.sql` from your created database.
